@@ -1,0 +1,5 @@
+platform :ios, '7.0'
+target "zhilian" do
+pod 'EasyIOS', :git=>'https://github.com/zhuchaowe/EasyIOS.git', :tag => '2.2.3'
+pod 'EasyIOS-Extention', '~> 1.2'
+end
